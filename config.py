@@ -40,8 +40,8 @@ class Config:
     MAIL_SERVER = 'smtp.gmail.com'
     MAIL_PORT = 587
     MAIL_USE_TLS = True
-    MAIL_USERNAME = 'proy17869@gmail@gmail.com'   # change
-    MAIL_PASSWORD = 'Pankaj@449'      # change
+    MAIL_USERNAME = 'username'   # change
+    MAIL_PASSWORD = 'password'      # change
 
 
 
